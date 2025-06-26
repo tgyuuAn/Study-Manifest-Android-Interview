@@ -1,4 +1,4 @@
-## 안드 척척 박사들의 [Manifest Android Interview](https://leanpub.com/manifest-android-interview-kr) 스터디
+## 👨🏻‍🏫 안드 척척 박사들의 [Manifest Android Interview](https://leanpub.com/manifest-android-interview-kr) 스터디
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/e53265d2-2f9d-43be-b589-9b79e9187b98" width="400">
